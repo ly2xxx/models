@@ -1,2 +1,2 @@
 # models
-fundation models
+foundation models
